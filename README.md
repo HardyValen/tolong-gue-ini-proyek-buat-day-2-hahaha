@@ -1,4 +1,4 @@
 # Hello World
-Hardy Valenthio
+Hardy
 18218004
 16518103
