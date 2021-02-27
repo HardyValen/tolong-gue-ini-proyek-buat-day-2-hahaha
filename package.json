@@ -1,0 +1,23 @@
+{
+  "name": "phaser-js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack",
+    "build-watch": "webpack --watch --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.52.0",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "style-loader": "^2.0.0",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
